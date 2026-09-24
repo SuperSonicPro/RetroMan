@@ -1,0 +1,30 @@
+{
+  "blender": "5.2.2 LTS",
+  "tests": [
+    {
+      "name": "Install/enable 1.0.23",
+      "ok": true
+    },
+    {
+      "name": "Install/enable 1.0.24",
+      "ok": true
+    },
+    {
+      "name": "Three disable/enable cycles",
+      "ok": true
+    },
+    {
+      "name": "Packaged native library loads and resolves a sample bucket",
+      "ok": true
+    },
+    {
+      "name": "Packaged GPU graphics and compute self-test",
+      "ok": true
+    },
+    {
+      "name": "Packaged Pixar texture preset and attribution render through isolated GPU worker",
+      "ok": true
+    }
+  ],
+  "ok": true
+}

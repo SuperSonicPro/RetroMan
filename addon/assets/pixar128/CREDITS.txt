@@ -1,0 +1,27 @@
+Pixar One Twenty Eight — texture collection
+Copyright Pixar Animation Studios.
+Collection credit on Pixar's release page: Dylan Sisson. Updated by Leif Pedersen.
+The repeating-texture technology is credited to David DiFrancesco.
+
+Source: https://renderman.pixar.com/pixar-one-twenty-eight
+Archive: https://assets.renderman.pixar.com/resources/texture_library_128/2846_pixar128_library.zip
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
+Full license: CC-BY-4.0.txt in this directory.
+
+RetroMan redistribution: 128 original color TIFF files from the official archive,
+byte-for-byte unchanged. Supplemental test charts and the later bump/normal maps
+are excluded. Blender preset node graphs and catalog are by the RetroMan Project.
+The library originated in 1993; these files come from Pixar's 2018 re-release.
+Do not describe these as a verified untouched copy of the original 1993 media.
+
+This texture collection remains CC BY 4.0, separately from RetroMan's GPL code.
+Retain attribution and the license link when sharing these assets or derived work;
+indicate any changes. No additional restrictions are imposed on the textures.
+Suggested credit:
+Textures: Pixar One Twenty Eight, Pixar Animation Studios; Dylan Sisson,
+updated by Leif Pedersen. CC BY 4.0.
+https://renderman.pixar.com/pixar-one-twenty-eight
+https://creativecommons.org/licenses/by/4.0/
+
+RetroMan is an independent project. No Pixar endorsement is implied.

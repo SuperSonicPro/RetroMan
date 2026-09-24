@@ -1,0 +1,1026 @@
+[
+  {
+    "id": "Blue_glazed",
+    "name": "Blue glazed",
+    "category": "Brick",
+    "file": "brick/Blue_glazed_pxr128.tif",
+    "sha256": "6f5ac1979e1cdafb829d3968e3d7fd0596272e04464ea79abaa6fd57d1b0eac4",
+    "archive_member": "Pixar128 Library/brick/Blue_glazed_pxr128.tif"
+  },
+  {
+    "id": "Building_block",
+    "name": "Building block",
+    "category": "Brick",
+    "file": "brick/Building_block_pxr128.tif",
+    "sha256": "7ec9f73fb9f00f4461201d5e684d5964025f9203c102a060c2690b10b55ea6e8",
+    "archive_member": "Pixar128 Library/brick/Building_block_pxr128.tif"
+  },
+  {
+    "id": "Cement_block",
+    "name": "Cement block",
+    "category": "Brick",
+    "file": "brick/Cement_block_pxr128.tif",
+    "sha256": "4df4bf0e9cbfcf998cef12450820ef468a9e2106dd842ff43301240bb7cde7bf",
+    "archive_member": "Pixar128 Library/brick/Cement_block_pxr128.tif"
+  },
+  {
+    "id": "Cinder_block",
+    "name": "Cinder block",
+    "category": "Brick",
+    "file": "brick/Cinder_block_pxr128.tif",
+    "sha256": "7c67e3dd0705fc44ee5dcbe1e279e5cd08343cc0871bb27f9845c5cdd5233088",
+    "archive_member": "Pixar128 Library/brick/Cinder_block_pxr128.tif"
+  },
+  {
+    "id": "Gray_deco_block",
+    "name": "Gray deco block",
+    "category": "Brick",
+    "file": "brick/Gray_deco_block_pxr128.tif",
+    "sha256": "daac894cd252c8f43b6c234e072f446b11c533e09456f0f1a34763d8a616634d",
+    "archive_member": "Pixar128 Library/brick/Gray_deco_block_pxr128.tif"
+  },
+  {
+    "id": "Orange_glazed",
+    "name": "Orange glazed",
+    "category": "Brick",
+    "file": "brick/Orange_glazed_pxr128.tif",
+    "sha256": "c545b3c8037fd93c691afadfa1d98db0aacd4ee8377e713f1033e696a2b39fb9",
+    "archive_member": "Pixar128 Library/brick/Orange_glazed_pxr128.tif"
+  },
+  {
+    "id": "Pink-brown_painted",
+    "name": "Pink-brown painted",
+    "category": "Brick",
+    "file": "brick/Pink-brown_painted_pxr128.tif",
+    "sha256": "d5b91eeddeb16bf58ad30fd95ccda6321170963a1136ad0bf5e9427a2f7e596a",
+    "archive_member": "Pixar128 Library/brick/Pink-brown_painted_pxr128.tif"
+  },
+  {
+    "id": "Red-orange_glazed",
+    "name": "Red-orange glazed",
+    "category": "Brick",
+    "file": "brick/Red-orange_glazed_pxr128.tif",
+    "sha256": "238a7ba77924e21cda98fe31d19929b89d11eb97edd5715534aca6c81fed885b",
+    "archive_member": "Pixar128 Library/brick/Red-orange_glazed_pxr128.tif"
+  },
+  {
+    "id": "Red_dutch",
+    "name": "Red dutch",
+    "category": "Brick",
+    "file": "brick/Red_dutch_pxr128.tif",
+    "sha256": "f2bef62b7317b6ecfaeda66a4d39bdf82f1110f670c7c5e867340de972e1f3f7",
+    "archive_member": "Pixar128 Library/brick/Red_dutch_pxr128.tif"
+  },
+  {
+    "id": "Relief_building_block",
+    "name": "Relief building block",
+    "category": "Brick",
+    "file": "brick/Relief_building_block_pxr128.tif",
+    "sha256": "111f89e4bb15103841c7d7b414858bd85e4bd93fbd13959b4b5b4753ef2b8653",
+    "archive_member": "Pixar128 Library/brick/Relief_building_block_pxr128.tif"
+  },
+  {
+    "id": "Shiny_red_glazed",
+    "name": "Shiny red glazed",
+    "category": "Brick",
+    "file": "brick/Shiny_red_glazed_pxr128.tif",
+    "sha256": "3e326a170e2023154a757ada336c44959e09013c0d3f816eb3effdcc760ca682",
+    "archive_member": "Pixar128 Library/brick/Shiny_red_glazed_pxr128.tif"
+  },
+  {
+    "id": "Standard_red",
+    "name": "Standard red",
+    "category": "Brick",
+    "file": "brick/Standard_red_pxr128.tif",
+    "sha256": "46913ad471c2f72c809379f9e4b021835500d0cb0e35c7b7e5db1ea5cc0621b6",
+    "archive_member": "Pixar128 Library/brick/Standard_red_pxr128.tif"
+  },
+  {
+    "id": "Stone_and_brick",
+    "name": "Stone and brick",
+    "category": "Brick",
+    "file": "brick/Stone_and_brick_pxr128.tif",
+    "sha256": "0b64bb73075d045069e6040bc39a181c6149b894cd5f3ccd17f4bcaa859bd32a",
+    "archive_member": "Pixar128 Library/brick/Stone_and_brick_pxr128.tif"
+  },
+  {
+    "id": "Thin_building_block",
+    "name": "Thin building block",
+    "category": "Brick",
+    "file": "brick/Thin_building_block_pxr128.tif",
+    "sha256": "4a532d3eddb78c2aa0b1b21aa9e6670d182b7eb8422504ff8c5895b08e105c74",
+    "archive_member": "Pixar128 Library/brick/Thin_building_block_pxr128.tif"
+  },
+  {
+    "id": "White_brick_block",
+    "name": "White brick block",
+    "category": "Brick",
+    "file": "brick/White_brick_block_pxr128.tif",
+    "sha256": "30a377621d200244ad1f01de713ce2b97ea74ea7f984dd6c3041501ccf346872",
+    "archive_member": "Pixar128 Library/brick/White_brick_block_pxr128.tif"
+  },
+  {
+    "id": "Blue_cotton_tweed",
+    "name": "Blue cotton tweed",
+    "category": "Fabric",
+    "file": "fabric/Blue_cotton_tweed_pxr128.tif",
+    "sha256": "ca5cce3fd7065a3084f2706ca5232f8d66f929628353202b3baf8115718a5915",
+    "archive_member": "Pixar128 Library/fabric/Blue_cotton_tweed_pxr128.tif"
+  },
+  {
+    "id": "Checked_cotton",
+    "name": "Checked cotton",
+    "category": "Fabric",
+    "file": "fabric/Checked_cotton_pxr128.tif",
+    "sha256": "236c6fe06411d66798d35b7c903de57a82ce8dbd0660a68437919964555dabec",
+    "archive_member": "Pixar128 Library/fabric/Checked_cotton_pxr128.tif"
+  },
+  {
+    "id": "Flower_pattern",
+    "name": "Flower pattern",
+    "category": "Fabric",
+    "file": "fabric/Flower_pattern_pxr128.tif",
+    "sha256": "09c9fff69a3d9715fe816e6deda064601425881c10ca717276f08fabd4bb8a02",
+    "archive_member": "Pixar128 Library/fabric/Flower_pattern_pxr128.tif"
+  },
+  {
+    "id": "Haitian_cotton",
+    "name": "Haitian cotton",
+    "category": "Fabric",
+    "file": "fabric/Haitian_cotton_pxr128.tif",
+    "sha256": "23cab85776179e9e73a7d2748c489a4ee7811e1b7b810917959fc69e946ca9e1",
+    "archive_member": "Pixar128 Library/fabric/Haitian_cotton_pxr128.tif"
+  },
+  {
+    "id": "Herringbone",
+    "name": "Herringbone",
+    "category": "Fabric",
+    "file": "fabric/Herringbone_pxr128.tif",
+    "sha256": "4fc38f7e50fa8081c0c87efc1a52c95e19e09ce7f9e194dff23add35f4ba0e31",
+    "archive_member": "Pixar128 Library/fabric/Herringbone_pxr128.tif"
+  },
+  {
+    "id": "Jade_cloth",
+    "name": "Jade cloth",
+    "category": "Fabric",
+    "file": "fabric/Jade_cloth_pxr128.tif",
+    "sha256": "5e94d95ef0b9c2bfafca9db456268a0bfec30498d1e4ce3a28146351cdb724ef",
+    "archive_member": "Pixar128 Library/fabric/Jade_cloth_pxr128.tif"
+  },
+  {
+    "id": "Pin_stripe_canvas",
+    "name": "Pin stripe canvas",
+    "category": "Fabric",
+    "file": "fabric/Pin_stripe_canvas_pxr128.tif",
+    "sha256": "3c567bfc4cbc1b50d37f243ebc9422248d1341015b7c73a81c29c3a6d8c95862",
+    "archive_member": "Pixar128 Library/fabric/Pin_stripe_canvas_pxr128.tif"
+  },
+  {
+    "id": "Red_velvet",
+    "name": "Red velvet",
+    "category": "Fabric",
+    "file": "fabric/Red_velvet_pxr128.tif",
+    "sha256": "4ea3b72f35d0f76633bd10b11fd9a272241875d4c3e4c326f25bea82b2884531",
+    "archive_member": "Pixar128 Library/fabric/Red_velvet_pxr128.tif"
+  },
+  {
+    "id": "Spots",
+    "name": "Spots",
+    "category": "Fabric",
+    "file": "fabric/Spots_pxr128.tif",
+    "sha256": "405b5c7c22aec0afb5b8a7330d4b4b63a9be12a5537b999563c4ea15b7857de7",
+    "archive_member": "Pixar128 Library/fabric/Spots_pxr128.tif"
+  },
+  {
+    "id": "Stripes",
+    "name": "Stripes",
+    "category": "Fabric",
+    "file": "fabric/Stripes_pxr128.tif",
+    "sha256": "3c8cdb6d68ac2ff0bd4e9b10c949b2cb54dc9b705b165c7b0f85e192122574a0",
+    "archive_member": "Pixar128 Library/fabric/Stripes_pxr128.tif"
+  },
+  {
+    "id": "White_lace",
+    "name": "White lace",
+    "category": "Fabric",
+    "file": "fabric/White_lace_pxr128.tif",
+    "sha256": "bb71ebde6f194475dcb2d239fc84d72e6df4f10735aa5e4c588fa92cef90364f",
+    "archive_member": "Pixar128 Library/fabric/White_lace_pxr128.tif"
+  },
+  {
+    "id": "Wild_flowers",
+    "name": "Wild flowers",
+    "category": "Fabric",
+    "file": "fabric/Wild_flowers_pxr128.tif",
+    "sha256": "22a98dc3aedc1f6d1869551db10e16ad7be115b7606762da56b5217207eeed58",
+    "archive_member": "Pixar128 Library/fabric/Wild_flowers_pxr128.tif"
+  },
+  {
+    "id": "Woven_flower",
+    "name": "Woven flower",
+    "category": "Fabric",
+    "file": "fabric/Woven_flower_pxr128.tif",
+    "sha256": "a1eafaaaa0b7db2eb7c51f789f198be300b30a6c17af04bc2d9bbc81dec8a88c",
+    "archive_member": "Pixar128 Library/fabric/Woven_flower_pxr128.tif"
+  },
+  {
+    "id": "Blue_lattice",
+    "name": "Blue lattice",
+    "category": "Fence",
+    "file": "fence/Blue_lattice_pxr128.tif",
+    "sha256": "915edf96a4b7e457ebd1b4c732d1053acadea82e122f7e7d8b1446123363b573",
+    "archive_member": "Pixar128 Library/fence/Blue_lattice_pxr128.tif"
+  },
+  {
+    "id": "Whitewashed_wood",
+    "name": "Whitewashed wood",
+    "category": "Fence",
+    "file": "fence/Whitewashed_wood_pxr128.tif",
+    "sha256": "decc1b42d1b4676df29c042238e4228cacf739957cb662c130bb91cc1ee89387",
+    "archive_member": "Pixar128 Library/fence/Whitewashed_wood_pxr128.tif"
+  },
+  {
+    "id": "Gray_swirl_marble",
+    "name": "Gray swirl marble",
+    "category": "Floor",
+    "file": "floor/Gray_swirl_marble_pxr128.tif",
+    "sha256": "daf4bfe4dd01a9c5b9d439ad6985d88a390f1f0d0736afddd63c4b48d3a7c715",
+    "archive_member": "Pixar128 Library/floor/Gray_swirl_marble_pxr128.tif"
+  },
+  {
+    "id": "Jute_cocomat",
+    "name": "Jute cocomat",
+    "category": "Floor",
+    "file": "floor/Jute_cocomat_pxr128.tif",
+    "sha256": "79f13b3965fa67c7f0f516990fc7563f8e6b33887b40376025cba4e529dbf8a0",
+    "archive_member": "Pixar128 Library/floor/Jute_cocomat_pxr128.tif"
+  },
+  {
+    "id": "Wool_carpet",
+    "name": "Wool carpet",
+    "category": "Floor",
+    "file": "floor/Wool_carpet_pxr128.tif",
+    "sha256": "49b3d7c1553d65281592b5178065ca6600a29c7af1dc6899dd941fd3bd6bb796",
+    "archive_member": "Pixar128 Library/floor/Wool_carpet_pxr128.tif"
+  },
+  {
+    "id": "Beach_sand",
+    "name": "Beach sand",
+    "category": "Ground",
+    "file": "ground/Beach_sand_pxr128.tif",
+    "sha256": "15e2017a2f3df5e4ca6d60b26f1f179480f3064ac34f5d98e4eb03e5e33209eb",
+    "archive_member": "Pixar128 Library/ground/Beach_sand_pxr128.tif"
+  },
+  {
+    "id": "Big_pebbles",
+    "name": "Big pebbles",
+    "category": "Ground",
+    "file": "ground/Big_pebbles_pxr128.tif",
+    "sha256": "36d33c3b684c4b5c4582dd36b34b94e30d4f50eb6258953bb4a12411e43ad878",
+    "archive_member": "Pixar128 Library/ground/Big_pebbles_pxr128.tif"
+  },
+  {
+    "id": "Blue_gravel",
+    "name": "Blue gravel",
+    "category": "Ground",
+    "file": "ground/Blue_gravel_pxr128.tif",
+    "sha256": "945465c7e089713ea5092cfec5087d0ecefa5f2a1aea4fffea38bbf475ccc628",
+    "archive_member": "Pixar128 Library/ground/Blue_gravel_pxr128.tif"
+  },
+  {
+    "id": "Bowling_grass",
+    "name": "Bowling grass",
+    "category": "Ground",
+    "file": "ground/Bowling_grass_pxr128.tif",
+    "sha256": "4b92b7ceead113688cc48399a447126ee4cbaf7bca2667fd3eb63e38bce6d3b4",
+    "archive_member": "Pixar128 Library/ground/Bowling_grass_pxr128.tif"
+  },
+  {
+    "id": "Brown_dirt",
+    "name": "Brown dirt",
+    "category": "Ground",
+    "file": "ground/Brown_dirt_pxr128.tif",
+    "sha256": "6b0bf3904d24efadda851acaded283232f9a7c4231bd7c4a1dc71eaa319ab691",
+    "archive_member": "Pixar128 Library/ground/Brown_dirt_pxr128.tif"
+  },
+  {
+    "id": "Contractors_rock",
+    "name": "Contractors rock",
+    "category": "Ground",
+    "file": "ground/Contractors_rock_pxr128.tif",
+    "sha256": "b7fe85ae7f89083081f8468156235a66769e0c362230d4534ab7dc9f6887b843",
+    "archive_member": "Pixar128 Library/ground/Contractors_rock_pxr128.tif"
+  },
+  {
+    "id": "Dirt_and_gravel",
+    "name": "Dirt and gravel",
+    "category": "Ground",
+    "file": "ground/Dirt_and_gravel_pxr128.tif",
+    "sha256": "e49f4e96102ee5b9aaec588d02cf98080094425ca1f183c2fd64464ca06a02c4",
+    "archive_member": "Pixar128 Library/ground/Dirt_and_gravel_pxr128.tif"
+  },
+  {
+    "id": "Fine_gravel",
+    "name": "Fine gravel",
+    "category": "Ground",
+    "file": "ground/Fine_gravel_pxr128.tif",
+    "sha256": "4e4a375821dcacb5b1d5b77ea3ec7970f9190be4a20605cb6859b6f40bfafc04",
+    "archive_member": "Pixar128 Library/ground/Fine_gravel_pxr128.tif"
+  },
+  {
+    "id": "Fine_gray_gravel",
+    "name": "Fine gray gravel",
+    "category": "Ground",
+    "file": "ground/Fine_gray_gravel_pxr128.tif",
+    "sha256": "9fadd24bab522fa6a73bbbbf19212ae302fe8338746c629996a1a76085c34721",
+    "archive_member": "Pixar128 Library/ground/Fine_gray_gravel_pxr128.tif"
+  },
+  {
+    "id": "Ivy",
+    "name": "Ivy",
+    "category": "Ground",
+    "file": "ground/Ivy_pxr128.tif",
+    "sha256": "cff450bbd958bcd3e7c6ead9240c274da8a84ee0aa92f531791d77b54ff93efa",
+    "archive_member": "Pixar128 Library/ground/Ivy_pxr128.tif"
+  },
+  {
+    "id": "Lawn_grass",
+    "name": "Lawn grass",
+    "category": "Ground",
+    "file": "ground/Lawn_grass_pxr128.tif",
+    "sha256": "dbea2abcb6a3b96af314aa1eba3796b1453392c09770621a62b42c5e6a797c60",
+    "archive_member": "Pixar128 Library/ground/Lawn_grass_pxr128.tif"
+  },
+  {
+    "id": "Pebbles_in_mortar",
+    "name": "Pebbles in mortar",
+    "category": "Ground",
+    "file": "ground/Pebbles_in_mortar_pxr128.tif",
+    "sha256": "8413f5a3275ae7f864a430b6ad92ef407149bb2ea3e23f7f4e8f02efc5eb30a7",
+    "archive_member": "Pixar128 Library/ground/Pebbles_in_mortar_pxr128.tif"
+  },
+  {
+    "id": "Peetmoss",
+    "name": "Peetmoss",
+    "category": "Ground",
+    "file": "ground/Peetmoss_pxr128.tif",
+    "sha256": "393cf1ff6092f40aa8a38a8596ecab266ecb1e04417052527f32b4072702209e",
+    "archive_member": "Pixar128 Library/ground/Peetmoss_pxr128.tif"
+  },
+  {
+    "id": "Red_gravel",
+    "name": "Red gravel",
+    "category": "Ground",
+    "file": "ground/Red_gravel_pxr128.tif",
+    "sha256": "b2ac265200ee8a10e1c06ae86ea61d88679861b55dec656be6db04e992f5a880",
+    "archive_member": "Pixar128 Library/ground/Red_gravel_pxr128.tif"
+  },
+  {
+    "id": "Street_asphalt",
+    "name": "Street asphalt",
+    "category": "Ground",
+    "file": "ground/Street_asphalt_pxr128.tif",
+    "sha256": "27eb1d9884af20167d22ad2434655b368607331b4bbcb5f89840c424dab5cab7",
+    "archive_member": "Pixar128 Library/ground/Street_asphalt_pxr128.tif"
+  },
+  {
+    "id": "Alloy_diamond_plate",
+    "name": "Alloy diamond plate",
+    "category": "Metal",
+    "file": "metal/Alloy_diamond_plate_pxr128.tif",
+    "sha256": "6dbe27528077e786a93a52fdb1267f64456190344796c75702efc1942cd6fa4b",
+    "archive_member": "Pixar128 Library/metal/Alloy_diamond_plate_pxr128.tif"
+  },
+  {
+    "id": "Black_mesh",
+    "name": "Black mesh",
+    "category": "Metal",
+    "file": "metal/Black_mesh_pxr128.tif",
+    "sha256": "db4f76820c5d2d9488204213d3bf2fec891933e7301a025cb92fc2fc5d2ca56c",
+    "archive_member": "Pixar128 Library/metal/Black_mesh_pxr128.tif"
+  },
+  {
+    "id": "Corrugated_steel",
+    "name": "Corrugated steel",
+    "category": "Metal",
+    "file": "metal/Corrugated_steel_pxr128.tif",
+    "sha256": "01101430719740759dc330db33d682889f8e0f10406442fb6f1b355187416c05",
+    "archive_member": "Pixar128 Library/metal/Corrugated_steel_pxr128.tif"
+  },
+  {
+    "id": "Louvered_steel",
+    "name": "Louvered steel",
+    "category": "Metal",
+    "file": "metal/Louvered_steel_pxr128.tif",
+    "sha256": "53ee45ca974014b0f5cce66f2b72d697a890ccef3baf8e3ae6e55a06371ecbe2",
+    "archive_member": "Pixar128 Library/metal/Louvered_steel_pxr128.tif"
+  },
+  {
+    "id": "Round_mesh",
+    "name": "Round mesh",
+    "category": "Metal",
+    "file": "metal/Round_mesh_pxr128.tif",
+    "sha256": "07d763baac6f599da93f8af1bc20adc9a7b19947298ca95e54b2956e443be690",
+    "archive_member": "Pixar128 Library/metal/Round_mesh_pxr128.tif"
+  },
+  {
+    "id": "Steel_diamond_plate",
+    "name": "Steel diamond plate",
+    "category": "Metal",
+    "file": "metal/Steel_diamond_plate_pxr128.tif",
+    "sha256": "bda15c54091662bd7cae3c9ac07065a3146dd166bc5e69d95e9b83d59b133aec",
+    "archive_member": "Pixar128 Library/metal/Steel_diamond_plate_pxr128.tif"
+  },
+  {
+    "id": "Steel_grating",
+    "name": "Steel grating",
+    "category": "Metal",
+    "file": "metal/Steel_grating_pxr128.tif",
+    "sha256": "e463714378f34decb0e7c47ec9d8b59c452935a7468caa46a299cd2a05c3a256",
+    "archive_member": "Pixar128 Library/metal/Steel_grating_pxr128.tif"
+  },
+  {
+    "id": "Wire_screen",
+    "name": "Wire screen",
+    "category": "Metal",
+    "file": "metal/Wire_screen_pxr128.tif",
+    "sha256": "c0224eeef818601bfb7a0a33589cca67c45b25031633a91530b8922ddf059719",
+    "archive_member": "Pixar128 Library/metal/Wire_screen_pxr128.tif"
+  },
+  {
+    "id": "Iridescent_ribbon",
+    "name": "Iridescent ribbon",
+    "category": "Misc",
+    "file": "misc/Iridescent_ribbon_pxr128.tif",
+    "sha256": "56835d51b0331d8f02762969e45abc87647864ba2c69602452f240c4982ead91",
+    "archive_member": "Pixar128 Library/misc/Iridescent_ribbon_pxr128.tif"
+  },
+  {
+    "id": "Nails",
+    "name": "Nails",
+    "category": "Misc",
+    "file": "misc/Nails_pxr128.tif",
+    "sha256": "1408177d0ef0cefe004912522ccc9a20c9d2b871f6a580747d68379b65b0e8df",
+    "archive_member": "Pixar128 Library/misc/Nails_pxr128.tif"
+  },
+  {
+    "id": "Silver_paper_cilps",
+    "name": "Silver paper cilps",
+    "category": "Misc",
+    "file": "misc/Silver_paper_cilps_pxr128.tif",
+    "sha256": "03dd130e3e774a2349804260af0a1c78d41a364f50cd4204b622c0f307624afa",
+    "archive_member": "Pixar128 Library/misc/Silver_paper_cilps_pxr128.tif"
+  },
+  {
+    "id": "Blue_shingle",
+    "name": "Blue shingle",
+    "category": "Roof",
+    "file": "roof/Blue_shingle_pxr128.tif",
+    "sha256": "0136e917307285e9f7fcea65272337d153bdd01eb2286c4655f0683206834660",
+    "archive_member": "Pixar128 Library/roof/Blue_shingle_pxr128.tif"
+  },
+  {
+    "id": "Brown_shingle",
+    "name": "Brown shingle",
+    "category": "Roof",
+    "file": "roof/Brown_shingle_pxr128.tif",
+    "sha256": "910672f4902a90bf1ca764d6007e623a79c751e7f6a3d0e8249a97f74169c254",
+    "archive_member": "Pixar128 Library/roof/Brown_shingle_pxr128.tif"
+  },
+  {
+    "id": "Brown_staggered",
+    "name": "Brown staggered",
+    "category": "Roof",
+    "file": "roof/Brown_staggered_pxr128.tif",
+    "sha256": "ca1c4c4df4167bee91bc9e23b2508794c833e0b584d92383b4585b8eccb1efd6",
+    "archive_member": "Pixar128 Library/roof/Brown_staggered_pxr128.tif"
+  },
+  {
+    "id": "Gray_shingle",
+    "name": "Gray shingle",
+    "category": "Roof",
+    "file": "roof/Gray_shingle_pxr128.tif",
+    "sha256": "5f6d780dec5c6d509b6cdab051ea7cac500652bd4d2c237e8887b92daa0692e1",
+    "archive_member": "Pixar128 Library/roof/Gray_shingle_pxr128.tif"
+  },
+  {
+    "id": "Purple_shingle",
+    "name": "Purple shingle",
+    "category": "Roof",
+    "file": "roof/Purple_shingle_pxr128.tif",
+    "sha256": "9cda7e8a59197b4260c34b377dea63beae8bf9ee460f36bd71e4457493f17163",
+    "archive_member": "Pixar128 Library/roof/Purple_shingle_pxr128.tif"
+  },
+  {
+    "id": "Red_shingle",
+    "name": "Red shingle",
+    "category": "Roof",
+    "file": "roof/Red_shingle_pxr128.tif",
+    "sha256": "5d8ae55dc7451ef7bb65628e042414712fff9bc843482dfd46b254d5ebad83cb",
+    "archive_member": "Pixar128 Library/roof/Red_shingle_pxr128.tif"
+  },
+  {
+    "id": "Standard_shingle",
+    "name": "Standard shingle",
+    "category": "Roof",
+    "file": "roof/Standard_shingle_pxr128.tif",
+    "sha256": "21ff18f2bc7252be4e5b008a0856ae041bec200d443dc5111c7485fbd05ae46e",
+    "archive_member": "Pixar128 Library/roof/Standard_shingle_pxr128.tif"
+  },
+  {
+    "id": "Tar_paper",
+    "name": "Tar paper",
+    "category": "Roof",
+    "file": "roof/Tar_paper_pxr128.tif",
+    "sha256": "53cfb04d5dd475a9ead615593243e497626fddcc1f3e5c6bdaed71361610efb6",
+    "archive_member": "Pixar128 Library/roof/Tar_paper_pxr128.tif"
+  },
+  {
+    "id": "Board_and_batten",
+    "name": "Board and batten",
+    "category": "Siding",
+    "file": "siding/Board_and_batten_pxr128.tif",
+    "sha256": "0ad90afa8096a0d1166f34bd3bc62a373369e3ce5619f82de557a6291eace89b",
+    "archive_member": "Pixar128 Library/siding/Board_and_batten_pxr128.tif"
+  },
+  {
+    "id": "Cedar_shake",
+    "name": "Cedar shake",
+    "category": "Siding",
+    "file": "siding/Cedar_shake_pxr128.tif",
+    "sha256": "4ffa4d3eaca84796d2a9c4997e9dd034b10dac21c0429eb8ee8b95ab43be1674",
+    "archive_member": "Pixar128 Library/siding/Cedar_shake_pxr128.tif"
+  },
+  {
+    "id": "Diagonal_cedar",
+    "name": "Diagonal cedar",
+    "category": "Siding",
+    "file": "siding/Diagonal_cedar_pxr128.tif",
+    "sha256": "5b33b025736678d4f84cb34d54594ee09f311de841621a64f1d402a4b24fe156",
+    "archive_member": "Pixar128 Library/siding/Diagonal_cedar_pxr128.tif"
+  },
+  {
+    "id": "Horizontal",
+    "name": "Horizontal",
+    "category": "Siding",
+    "file": "siding/Horizontal_pxr128.tif",
+    "sha256": "cf43455c69e1a7a9f8973c4762d8324e48bfa54aa60c83054a0dee41a8a77f18",
+    "archive_member": "Pixar128 Library/siding/Horizontal_pxr128.tif"
+  },
+  {
+    "id": "Poured_cement",
+    "name": "Poured cement",
+    "category": "Siding",
+    "file": "siding/Poured_cement_pxr128.tif",
+    "sha256": "2d2de28c32ccd5984ef5b0e89992be88703d8e55723d3ddbf7daa86383a3e4b5",
+    "archive_member": "Pixar128 Library/siding/Poured_cement_pxr128.tif"
+  },
+  {
+    "id": "Redwood_outdoor",
+    "name": "Redwood outdoor",
+    "category": "Siding",
+    "file": "siding/Redwood_outdoor_pxr128.tif",
+    "sha256": "53ddd62ff19228804a6e1a539af976505a9d270f3a23197f288d1b41b89de94c",
+    "archive_member": "Pixar128 Library/siding/Redwood_outdoor_pxr128.tif"
+  },
+  {
+    "id": "Vertical_metal",
+    "name": "Vertical metal",
+    "category": "Siding",
+    "file": "siding/Vertical_metal_pxr128.tif",
+    "sha256": "b25d3decdaf8327f29c058c265e630e0877f637e26c82710e01e0e33bbe5df0c",
+    "archive_member": "Pixar128 Library/siding/Vertical_metal_pxr128.tif"
+  },
+  {
+    "id": "Vertical_redwood",
+    "name": "Vertical redwood",
+    "category": "Siding",
+    "file": "siding/Vertical_redwood_pxr128.tif",
+    "sha256": "399216c79d4a7b669c205d57306b06a10381a6cd9b41ba5b66f39dba851824de",
+    "archive_member": "Pixar128 Library/siding/Vertical_redwood_pxr128.tif"
+  },
+  {
+    "id": "Weathered_vertical",
+    "name": "Weathered vertical",
+    "category": "Siding",
+    "file": "siding/Weathered_vertical_pxr128.tif",
+    "sha256": "ecc8e7802292fa98bc465c3d81b768bd5f19b6b45d0089c2d86ad3578257a2b3",
+    "archive_member": "Pixar128 Library/siding/Weathered_vertical_pxr128.tif"
+  },
+  {
+    "id": "Golden_snakeskin",
+    "name": "Golden snakeskin",
+    "category": "Skin",
+    "file": "skin/Golden_snakeskin_pxr128.tif",
+    "sha256": "3a7c2c7a048ac4dfe26c20c7d6ef78971955e0b10700b7365a0d8a3faadd0881",
+    "archive_member": "Pixar128 Library/skin/Golden_snakeskin_pxr128.tif"
+  },
+  {
+    "id": "Panda_fur",
+    "name": "Panda fur",
+    "category": "Skin",
+    "file": "skin/Panda_fur_pxr128.tif",
+    "sha256": "98fe518c60f21d65a095baa9edb3571d269a481334d5b3417438493150b0990d",
+    "archive_member": "Pixar128 Library/skin/Panda_fur_pxr128.tif"
+  },
+  {
+    "id": "Black_granite",
+    "name": "Black granite",
+    "category": "Stone",
+    "file": "stone/Black_granite_pxr128.tif",
+    "sha256": "28af0ee45b660595a8525fc4e36debf2d6f2fb8faadcbe76217f2e858871e4e8",
+    "archive_member": "Pixar128 Library/stone/Black_granite_pxr128.tif"
+  },
+  {
+    "id": "Black_marble",
+    "name": "Black marble",
+    "category": "Stone",
+    "file": "stone/Black_marble_pxr128.tif",
+    "sha256": "869dddf9c115666510103afc6ce4534e4ec6285cd2dd4c974bb1ff64c03d868b",
+    "archive_member": "Pixar128 Library/stone/Black_marble_pxr128.tif"
+  },
+  {
+    "id": "Blue_marble",
+    "name": "Blue marble",
+    "category": "Stone",
+    "file": "stone/Blue_marble_pxr128.tif",
+    "sha256": "83500f701ed0172f7430bba7ab9440c22e69eb3ddf77b27b42a89c6a5be1eb64",
+    "archive_member": "Pixar128 Library/stone/Blue_marble_pxr128.tif"
+  },
+  {
+    "id": "Brown_marble",
+    "name": "Brown marble",
+    "category": "Stone",
+    "file": "stone/Brown_marble_pxr128.tif",
+    "sha256": "a307a9511f702a4b4c05d458f8d1bfdb2f0f4a87b4d75317cf9e574b7ee6478f",
+    "archive_member": "Pixar128 Library/stone/Brown_marble_pxr128.tif"
+  },
+  {
+    "id": "Buffed_marble",
+    "name": "Buffed marble",
+    "category": "Stone",
+    "file": "stone/Buffed_marble_pxr128.tif",
+    "sha256": "802910febe5204bfd20ee1018aedeb544aca17b04252bfd060845d1ec6c4db8e",
+    "archive_member": "Pixar128 Library/stone/Buffed_marble_pxr128.tif"
+  },
+  {
+    "id": "Gray_granite",
+    "name": "Gray granite",
+    "category": "Stone",
+    "file": "stone/Gray_granite_pxr128.tif",
+    "sha256": "c1d566f90565b6e6b262435f4ba790df80e3dbe8b6e383fcac0bc536ede095d3",
+    "archive_member": "Pixar128 Library/stone/Gray_granite_pxr128.tif"
+  },
+  {
+    "id": "Gray_marble",
+    "name": "Gray marble",
+    "category": "Stone",
+    "file": "stone/Gray_marble_pxr128.tif",
+    "sha256": "186ac334e5f5a9063c0df9981a7e3f33726e19bb38de62f1f92b8b6addb93d7b",
+    "archive_member": "Pixar128 Library/stone/Gray_marble_pxr128.tif"
+  },
+  {
+    "id": "Green_marble",
+    "name": "Green marble",
+    "category": "Stone",
+    "file": "stone/Green_marble_pxr128.tif",
+    "sha256": "ab195115fca7270cb8d728b5a803d2819ba1eb4248ed7a3ca5ea325857c27e4d",
+    "archive_member": "Pixar128 Library/stone/Green_marble_pxr128.tif"
+  },
+  {
+    "id": "Pink_marble",
+    "name": "Pink marble",
+    "category": "Stone",
+    "file": "stone/Pink_marble_pxr128.tif",
+    "sha256": "432caf119c5ebcc96fda353bb99b0527cef960fca6c3a34454f2dd81906ba1b6",
+    "archive_member": "Pixar128 Library/stone/Pink_marble_pxr128.tif"
+  },
+  {
+    "id": "Red_granite",
+    "name": "Red granite",
+    "category": "Stone",
+    "file": "stone/Red_granite_pxr128.tif",
+    "sha256": "179c595d0729e0aedd4ef6fa10b58dc2b783ff4f07c505732d694484362db5b4",
+    "archive_member": "Pixar128 Library/stone/Red_granite_pxr128.tif"
+  },
+  {
+    "id": "Slag_stone",
+    "name": "Slag stone",
+    "category": "Stone",
+    "file": "stone/Slag_stone_pxr128.tif",
+    "sha256": "62414177ef79a08723b214ae20f4acbb18d6d97c0f094ae3568f933a6df9a97d",
+    "archive_member": "Pixar128 Library/stone/Slag_stone_pxr128.tif"
+  },
+  {
+    "id": "Tan_marble",
+    "name": "Tan marble",
+    "category": "Stone",
+    "file": "stone/Tan_marble_pxr128.tif",
+    "sha256": "2ed8df3f29248f0ab598df673e89b1d57e8fee506ff3cf65010bbbee02449239",
+    "archive_member": "Pixar128 Library/stone/Tan_marble_pxr128.tif"
+  },
+  {
+    "id": "Belgium_block",
+    "name": "Belgium block",
+    "category": "Wall",
+    "file": "wall/Belgium_block_pxr128.tif",
+    "sha256": "8e0333d6163a175ff32af25903a804140a2055c28b58586915cb9cf687d47ee4",
+    "archive_member": "Pixar128 Library/wall/Belgium_block_pxr128.tif"
+  },
+  {
+    "id": "Black_glazed_tile",
+    "name": "Black glazed tile",
+    "category": "Wall",
+    "file": "wall/Black_glazed_tile_pxr128.tif",
+    "sha256": "a136cedc81dffdcc0ca1e6e1a3040d8a7335e0e8dbf22a37f8057f04ba5add2a",
+    "archive_member": "Pixar128 Library/wall/Black_glazed_tile_pxr128.tif"
+  },
+  {
+    "id": "Glass_block",
+    "name": "Glass block",
+    "category": "Wall",
+    "file": "wall/Glass_block_pxr128.tif",
+    "sha256": "cc904457fc2a21755755b867f24b22a0b22afcd7fd33fbbe02abd5bb88a4f6c9",
+    "archive_member": "Pixar128 Library/wall/Glass_block_pxr128.tif"
+  },
+  {
+    "id": "Pink_tile",
+    "name": "Pink tile",
+    "category": "Wall",
+    "file": "wall/Pink_tile_pxr128.tif",
+    "sha256": "1626ecd40cc01cab3c7e4682d55110c9365e772b989ff61335fbfd2320a3f933",
+    "archive_member": "Pixar128 Library/wall/Pink_tile_pxr128.tif"
+  },
+  {
+    "id": "Railroad_tie_ends",
+    "name": "Railroad tie ends",
+    "category": "Wall",
+    "file": "wall/Railroad_tie_ends_pxr128.tif",
+    "sha256": "0019f66163de36ea6f7750a49eda930745382dc13cbff8c942296f7a7bc5aa6c",
+    "archive_member": "Pixar128 Library/wall/Railroad_tie_ends_pxr128.tif"
+  },
+  {
+    "id": "Rattan",
+    "name": "Rattan",
+    "category": "Wall",
+    "file": "wall/Rattan_pxr128.tif",
+    "sha256": "5354e33227e97add8b5ae091a7ef8fc69ac9a1ba3885611311a79bf41954dba6",
+    "archive_member": "Pixar128 Library/wall/Rattan_pxr128.tif"
+  },
+  {
+    "id": "Rock_in_mortar",
+    "name": "Rock in mortar",
+    "category": "Wall",
+    "file": "wall/Rock_in_mortar_pxr128.tif",
+    "sha256": "9434b86762755a63071b5d93158e838942c09b6736c6d55de2e8c6f6f66e130c",
+    "archive_member": "Pixar128 Library/wall/Rock_in_mortar_pxr128.tif"
+  },
+  {
+    "id": "Shale_rock",
+    "name": "Shale rock",
+    "category": "Wall",
+    "file": "wall/Shale_rock_pxr128.tif",
+    "sha256": "d97f0b98bb01f0af946b28aa9f00159583a357bcab50e8b3fc24ebc889201108",
+    "archive_member": "Pixar128 Library/wall/Shale_rock_pxr128.tif"
+  },
+  {
+    "id": "Small_black_tile",
+    "name": "Small black tile",
+    "category": "Wall",
+    "file": "wall/Small_black_tile_pxr128.tif",
+    "sha256": "771103e15d0d7815e942cc4aa472b674b94634d9c0a9f574d3e3ee49be6f230d",
+    "archive_member": "Pixar128 Library/wall/Small_black_tile_pxr128.tif"
+  },
+  {
+    "id": "Stucco",
+    "name": "Stucco",
+    "category": "Wall",
+    "file": "wall/Stucco_pxr128.tif",
+    "sha256": "9b8e4031ce0af2af4fa7482c7c6cc72969e9a0de73f3e5a36ccacad9354f0c57",
+    "archive_member": "Pixar128 Library/wall/Stucco_pxr128.tif"
+  },
+  {
+    "id": "American_cherry",
+    "name": "American cherry",
+    "category": "Wood",
+    "file": "wood/American_cherry_pxr128.tif",
+    "sha256": "3d8d9f5481139c926ef22c68e130aec18881a79ca2d9ddc7889b7439aec08087",
+    "archive_member": "Pixar128 Library/wood/American_cherry_pxr128.tif"
+  },
+  {
+    "id": "American_oak",
+    "name": "American oak",
+    "category": "Wood",
+    "file": "wood/American_oak_pxr128.tif",
+    "sha256": "39c8ec0a1356e09863979a21723768d2e87c6a0da9b85d20f4669ae0e122bfc5",
+    "archive_member": "Pixar128 Library/wood/American_oak_pxr128.tif"
+  },
+  {
+    "id": "American_walnut",
+    "name": "American walnut",
+    "category": "Wood",
+    "file": "wood/American_walnut_pxr128.tif",
+    "sha256": "23718b670371fb4ecd7f1dec6341cba9f3635b4369634c789d424a3058435d2a",
+    "archive_member": "Pixar128 Library/wood/American_walnut_pxr128.tif"
+  },
+  {
+    "id": "Anigre",
+    "name": "Anigre",
+    "category": "Wood",
+    "file": "wood/Anigre_pxr128.tif",
+    "sha256": "b847ef8436b57392655bc4ad6ac1bcb52637f1a4d87bca19b181877de86125e7",
+    "archive_member": "Pixar128 Library/wood/Anigre_pxr128.tif"
+  },
+  {
+    "id": "Australian_rosewood",
+    "name": "Australian rosewood",
+    "category": "Wood",
+    "file": "wood/Australian_rosewood_pxr128.tif",
+    "sha256": "59d10d6f581beac5106393f150cc362a493c37c63e5bf51edcd25cfcabe02472",
+    "archive_member": "Pixar128 Library/wood/Australian_rosewood_pxr128.tif"
+  },
+  {
+    "id": "Belizan_mahognay",
+    "name": "Belizan mahognay",
+    "category": "Wood",
+    "file": "wood/Belizan_mahognay_pxr128.tif",
+    "sha256": "c9a572d38b498f6a3789a6413611c73147bcd95b8162e7a57efa15dd88a6b3f3",
+    "archive_member": "Pixar128 Library/wood/Belizan_mahognay_pxr128.tif"
+  },
+  {
+    "id": "Brazilian_rosewood",
+    "name": "Brazilian rosewood",
+    "category": "Wood",
+    "file": "wood/Brazilian_rosewood_pxr128.tif",
+    "sha256": "5076496dcf9734c32bd051acc57d999de6cf9ba2f7e5b6fa5d8c4deb4e6c23e3",
+    "archive_member": "Pixar128 Library/wood/Brazilian_rosewood_pxr128.tif"
+  },
+  {
+    "id": "Burled_ash",
+    "name": "Burled ash",
+    "category": "Wood",
+    "file": "wood/Burled_ash_pxr128.tif",
+    "sha256": "35b95ae32db48a3e142ce635d3935182a1f5662c41217ebe314370343a9d673e",
+    "archive_member": "Pixar128 Library/wood/Burled_ash_pxr128.tif"
+  },
+  {
+    "id": "Burled_mappa",
+    "name": "Burled mappa",
+    "category": "Wood",
+    "file": "wood/Burled_mappa_pxr128.tif",
+    "sha256": "9eede199b1ac8cfc1fb425a1edd8ed28b64dbe4137047e9e88cd2b2ab1f0041d",
+    "archive_member": "Pixar128 Library/wood/Burled_mappa_pxr128.tif"
+  },
+  {
+    "id": "Burled_olive_ash",
+    "name": "Burled olive ash",
+    "category": "Wood",
+    "file": "wood/Burled_olive_ash_pxr128.tif",
+    "sha256": "2b51cedbd78844bf1ca22077a69967fb899c294010dbb5cc4a4a605bd2d8b018",
+    "archive_member": "Pixar128 Library/wood/Burled_olive_ash_pxr128.tif"
+  },
+  {
+    "id": "Burled_walnut",
+    "name": "Burled walnut",
+    "category": "Wood",
+    "file": "wood/Burled_walnut_pxr128.tif",
+    "sha256": "45b08187da02becf23b3624bec94e3c53c05c0e2b92370f5000c5bd1b8da6c3c",
+    "archive_member": "Pixar128 Library/wood/Burled_walnut_pxr128.tif"
+  },
+  {
+    "id": "Dark_birdseye_maple",
+    "name": "Dark birdseye maple",
+    "category": "Wood",
+    "file": "wood/Dark_birdseye_maple_pxr128.tif",
+    "sha256": "d7f0d49e9f41c49c6d58187c687955e017fbaa0b11908a98dd866ce28d73576e",
+    "archive_member": "Pixar128 Library/wood/Dark_birdseye_maple_pxr128.tif"
+  },
+  {
+    "id": "Figured_birdseye_maple",
+    "name": "Figured birdseye maple",
+    "category": "Wood",
+    "file": "wood/Figured_birdseye_maple_pxr128.tif",
+    "sha256": "942b0de96af719fc19a50f11ca8b33db895afb2f9b0b3f3a2eec6194b989ff9e",
+    "archive_member": "Pixar128 Library/wood/Figured_birdseye_maple_pxr128.tif"
+  },
+  {
+    "id": "Figured_lacewood",
+    "name": "Figured lacewood",
+    "category": "Wood",
+    "file": "wood/Figured_lacewood_pxr128.tif",
+    "sha256": "4ae1db9d3b37d61960e13ce4066fc16f412f7bce2ed9a36032334964972f3beb",
+    "archive_member": "Pixar128 Library/wood/Figured_lacewood_pxr128.tif"
+  },
+  {
+    "id": "Figured_mahogany",
+    "name": "Figured mahogany",
+    "category": "Wood",
+    "file": "wood/Figured_mahogany_pxr128.tif",
+    "sha256": "905a373238ebd7f76b98cb5e19deb35325f761e5b7395376d2f82a9087df9056",
+    "archive_member": "Pixar128 Library/wood/Figured_mahogany_pxr128.tif"
+  },
+  {
+    "id": "Figured_rosewood",
+    "name": "Figured rosewood",
+    "category": "Wood",
+    "file": "wood/Figured_rosewood_pxr128.tif",
+    "sha256": "4ea2486ef0c32c9975093eeedd7077644f0d9bb869ddfbbd060ab64cefff0309",
+    "archive_member": "Pixar128 Library/wood/Figured_rosewood_pxr128.tif"
+  },
+  {
+    "id": "Figured_sepele",
+    "name": "Figured sepele",
+    "category": "Wood",
+    "file": "wood/Figured_sepele_pxr128.tif",
+    "sha256": "e788b8cf72e98ad3d0c32b8096f30cf8a9ad7a09f8e1a6df094ecd4ac77b1eb4",
+    "archive_member": "Pixar128 Library/wood/Figured_sepele_pxr128.tif"
+  },
+  {
+    "id": "Figured_yew_wood",
+    "name": "Figured yew wood",
+    "category": "Wood",
+    "file": "wood/Figured_yew_wood_pxr128.tif",
+    "sha256": "c8ed7cc2c3ef8c790944b94fd437973f2154d571b039575dcdbc949ad35b09d0",
+    "archive_member": "Pixar128 Library/wood/Figured_yew_wood_pxr128.tif"
+  },
+  {
+    "id": "Hackberry",
+    "name": "Hackberry",
+    "category": "Wood",
+    "file": "wood/Hackberry_pxr128.tif",
+    "sha256": "538d088ffd8247a82ae98da36a36af04ce547940956ae4ebe14f8e2affdc932c",
+    "archive_member": "Pixar128 Library/wood/Hackberry_pxr128.tif"
+  },
+  {
+    "id": "Honduran_mahogany",
+    "name": "Honduran mahogany",
+    "category": "Wood",
+    "file": "wood/Honduran_mahogany_pxr128.tif",
+    "sha256": "70630f9e0b76a0036500889aa96315fe583052330f14bed10be4b3cc8139a9cd",
+    "archive_member": "Pixar128 Library/wood/Honduran_mahogany_pxr128.tif"
+  },
+  {
+    "id": "Marine_plywood",
+    "name": "Marine plywood",
+    "category": "Wood",
+    "file": "wood/Marine_plywood_pxr128.tif",
+    "sha256": "4e468c6e7fe18c7dfc4607049df634758d71a991580d34729e00ea7636ec7974",
+    "archive_member": "Pixar128 Library/wood/Marine_plywood_pxr128.tif"
+  },
+  {
+    "id": "Quartered_sepele",
+    "name": "Quartered sepele",
+    "category": "Wood",
+    "file": "wood/Quartered_sepele_pxr128.tif",
+    "sha256": "8a61046df018239a65c482f5749daa73c9808c1e4b74077c62004496a9188dc6",
+    "archive_member": "Pixar128 Library/wood/Quartered_sepele_pxr128.tif"
+  },
+  {
+    "id": "Quartered_teak",
+    "name": "Quartered teak",
+    "category": "Wood",
+    "file": "wood/Quartered_teak_pxr128.tif",
+    "sha256": "95be7e10546ac7c8f44d01a57e105cb29dba5ec7f6c4e7a9efba67322f00383e",
+    "archive_member": "Pixar128 Library/wood/Quartered_teak_pxr128.tif"
+  },
+  {
+    "id": "Red_oak",
+    "name": "Red oak",
+    "category": "Wood",
+    "file": "wood/Red_oak_pxr128.tif",
+    "sha256": "17829581793ca5825e4449c958dcdeea0e86f6fe01accdbb49b30b739a99dc37",
+    "archive_member": "Pixar128 Library/wood/Red_oak_pxr128.tif"
+  },
+  {
+    "id": "Redwood_tree_bark",
+    "name": "Redwood tree bark",
+    "category": "Wood",
+    "file": "wood/Redwood_tree_bark_pxr128.tif",
+    "sha256": "6014b4a4143841d964dec438d2b3a91118f2bf3b0a5bc06349c92109cfd241a3",
+    "archive_member": "Pixar128 Library/wood/Redwood_tree_bark_pxr128.tif"
+  },
+  {
+    "id": "Rough_cut_redwood",
+    "name": "Rough cut redwood",
+    "category": "Wood",
+    "file": "wood/Rough_cut_redwood_pxr128.tif",
+    "sha256": "66acde03283fe0383d768f6f2124dd90fb137e3c811b904d0b0c10053279fa18",
+    "archive_member": "Pixar128 Library/wood/Rough_cut_redwood_pxr128.tif"
+  },
+  {
+    "id": "White_maple",
+    "name": "White maple",
+    "category": "Wood",
+    "file": "wood/White_maple_pxr128.tif",
+    "sha256": "12e218574591c3df6239dd1dfdc2284b6fc199df8da4523ff560b90875203a44",
+    "archive_member": "Pixar128 Library/wood/White_maple_pxr128.tif"
+  },
+  {
+    "id": "White_oak",
+    "name": "White oak",
+    "category": "Wood",
+    "file": "wood/White_oak_pxr128.tif",
+    "sha256": "b8d8e7523ecd44cc4e4fad33f4e81dfbec22c54c7935c34c3bb90d256390a6ed",
+    "archive_member": "Pixar128 Library/wood/White_oak_pxr128.tif"
+  }
+]

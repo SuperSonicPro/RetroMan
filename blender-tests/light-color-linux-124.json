@@ -1,0 +1,146 @@
+{
+  "blender": "5.2.2 LTS",
+  "tests": [
+    {
+      "type": "SUN",
+      "nodes": false,
+      "rgb": [
+        0.31830984354019165,
+        0.0,
+        0.0
+      ],
+      "extracted_color": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "ok": true
+    },
+    {
+      "type": "SUN",
+      "nodes": true,
+      "rgb": [
+        0.0,
+        0.0,
+        0.31830984354019165
+      ],
+      "extracted_color": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "ok": true
+    },
+    {
+      "type": "POINT",
+      "nodes": false,
+      "rgb": [
+        0.6327423453330994,
+        0.0,
+        0.0
+      ],
+      "extracted_color": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "ok": true
+    },
+    {
+      "type": "POINT",
+      "nodes": true,
+      "rgb": [
+        0.0,
+        0.0,
+        0.6327423453330994
+      ],
+      "extracted_color": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "ok": true
+    },
+    {
+      "type": "SPOT",
+      "nodes": false,
+      "rgb": [
+        0.6327423453330994,
+        0.0,
+        0.0
+      ],
+      "extracted_color": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "ok": true
+    },
+    {
+      "type": "SPOT",
+      "nodes": true,
+      "rgb": [
+        0.0,
+        0.0,
+        0.6327423453330994
+      ],
+      "extracted_color": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "ok": true
+    },
+    {
+      "type": "AREA",
+      "nodes": false,
+      "rgb": [
+        2.530282735824585,
+        0.0,
+        0.0
+      ],
+      "extracted_color": [
+        1.0,
+        0.0,
+        0.0
+      ],
+      "ok": true
+    },
+    {
+      "type": "AREA",
+      "nodes": true,
+      "rgb": [
+        0.0,
+        0.0,
+        2.530282735824585
+      ],
+      "extracted_color": [
+        0.0,
+        0.0,
+        1.0
+      ],
+      "ok": true
+    },
+    {
+      "name": "Linked RGB/Math light color, strength and data tint multiply correctly",
+      "ok": true
+    },
+    {
+      "name": "Disconnected light output emits nothing",
+      "ok": true
+    },
+    {
+      "name": "Actual GPU final render blue light and Film Transparent=False PNG alpha",
+      "ok": true
+    },
+    {
+      "name": "Actual GPU final render blue light and Film Transparent=True PNG alpha",
+      "ok": true
+    },
+    {
+      "name": "Film panel repeated registration",
+      "ok": true
+    }
+  ],
+  "ok": true
+}

@@ -1,0 +1,13 @@
+schema_version = "1.0.0"
+id = "retroman"
+version = "1.0.24"
+name = "RetroMan"
+tagline = "1995-style REYES rendering for modern Blender workflows"
+maintainer = "RetroMan Project"
+type = "add-on"
+blender_version_min = "5.0.0"
+platforms = ["linux-x64", "windows-x64", "macos-arm64"]
+license = ["SPDX:GPL-3.0-or-later", "SPDX:CC-BY-4.0"]
+
+[permissions]
+files = "Read bundled textures, pack preset images into scenes, Export RIB files and exchange private temporary render snapshots with a local Blender GPU worker"

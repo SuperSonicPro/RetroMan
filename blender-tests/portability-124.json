@@ -1,0 +1,29 @@
+{
+  "bucket_linux_x86_64.so": {
+    "sha256": "3906f68514553eb6427815ddc4d609f0de17df8b4caa32b26975057d8a0edfaa"
+  },
+  "bucket_windows_x86_64.dll": {
+    "sha256": "295da0cf68ca7498bbcdf0b7ab99e51fc245759f4a704c41dd511d7fff5aec9f",
+    "system_dependencies": [
+      "api-ms-win-crt-runtime-l1-1-0.dll",
+      "KERNEL32.dll",
+      "api-ms-win-crt-stdio-l1-1-0.dll",
+      "api-ms-win-crt-string-l1-1-0.dll",
+      "api-ms-win-crt-heap-l1-1-0.dll",
+      "api-ms-win-crt-private-l1-1-0.dll"
+    ],
+    "required_exports": true,
+    "windows_blender_tested": false,
+    "wine_numerical_cases": 6
+  },
+  "bucket_macos_arm64.dylib": {
+    "sha256": "1bd39349bbafe7ce99b4b3695b6d8293ab89b85bb46d46bc708e967c69551062",
+    "system_dependencies": [
+      "/usr/lib/libSystem.B.dylib"
+    ],
+    "install_name": "@rpath/bucket_macos_arm64.dylib",
+    "required_exports": true,
+    "adhoc_signature_page_hashes_valid": true,
+    "macos_runtime_tested": false
+  }
+}
